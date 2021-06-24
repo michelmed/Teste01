@@ -16,6 +16,7 @@ class Simple{
      
      System.out.println("Valor da soma");  
      System.out.println(sum);  
+     System.out.println("Resultado");  
      
     }  
 }  
